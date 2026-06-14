@@ -1,5 +1,10 @@
-name: Juan Felipe Manrique Otálora
-title: Juan Felipe Manrique Otálora
-description: Performance Marketing | Campaign Operations | Analytics | Process Improvement
-theme: jekyll-theme-minimal
-show_downloads: false
+author:
+  name: "Juan Felipe Manrique Otálora"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Curious about systems, people, and performance. I enjoy understanding complex problems and turning that understanding into meaningful action."
+  location: "Bogotá, Colombia"
+  email: "manriqueotalora@gmail.com"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/juan-felipe-manrique-otalora-375857234/"
