@@ -1,9 +1,3 @@
-# Juan Felipe Manrique Otálora
-
-Performance Marketing | Campaign Operations | Analytics | Strategic Process Improvement
-
-Curious about systems, people, and performance. I enjoy understanding complex problems and turning that understanding into meaningful action.
-
 ## About Me
 
 Marketing and campaign operations professional with experience supporting large-scale campaigns for Amazon Prime Video Canada.
