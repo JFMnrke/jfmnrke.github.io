@@ -78,4 +78,8 @@ Led documentation, onboarding, and process-improvement initiatives while mentori
 
 LinkedIn: https://www.linkedin.com/in/juan-felipe-manrique-otalora-375857234/
 
+Email: manriqueotalora@gmail.com
+
+Phone: (+57)317 381 1339
+
 Location: Bogotá, Colombia
