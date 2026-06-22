@@ -110,3 +110,5 @@ Performance optimization is not only about improving metrics.
 It is about understanding people.
 
 The most valuable opportunities often appear when data challenges what we originally believed about an audience, a platform, or a campaign strategy.
+
+[← Back to Home](./index.md)
