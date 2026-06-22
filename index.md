@@ -108,6 +108,6 @@ This reflection brings together the ideas that have shaped my professional journ
 ---
 
 📧 Email: <a href="mailto:manriqueotalora@gmail.com">manriqueotalora@gmail.com</a>  
-💼 LinkedIn: <a href="https://www.linkedin.com/in/juan-felipe-manrique-otalora-375857234/" target="_blank">juan-felipe-manrique</a>  
+💼 LinkedIn: <a href="https://www.linkedin.com/in/juan-felipe-manrique-otalora-375857234/" target="_blank">Juan Felipe Manrique</a>  
 📱 Phone: +57 317 381 1339  
 📍 Bogotá, Colombia
