@@ -105,11 +105,9 @@ This reflection brings together the ideas that have shaped my professional journ
 * Organizational Alignment
 
 ## Contact
+---
 
-LinkedIn: https://www.linkedin.com/in/juan-felipe-manrique-otalora-375857234/
-
-Email: manriqueotalora@gmail.com
-
-Phone: (+57)317 381 1339
-
-Location: Bogotá, Colombia
+📧 Email: <a href="mailto:manriqueotalora@gmail.com">manriqueotalora@gmail.com</a>  
+💼 LinkedIn: <a href="https://www.linkedin.com/in/juan-felipe-manrique-otalora-375857234/" target="_blank">juan-felipe-manrique</a>  
+📱 Phone: +57 317 381 1339  
+📍 Bogotá, Colombia
