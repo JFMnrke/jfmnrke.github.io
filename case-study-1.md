@@ -120,3 +120,5 @@ Some teams that previously required several hours to prepare and activate campai
 > The best operational improvements begin by listening.
 
 Understanding how people actually work is often more valuable than designing processes in isolation.
+
+[← Back to Home](./index.md)
