@@ -55,3 +55,5 @@ The work that motivates me most is work that creates tangible value.
 Whether improving a process, increasing campaign performance, mentoring a teammate, or helping a business achieve its goals, I am driven by the opportunity to contribute in meaningful and measurable ways.
 
 I believe the most rewarding work is work that leaves people, teams, and organizations better than they were before.
+
+[← Back to Home](./index.md)
