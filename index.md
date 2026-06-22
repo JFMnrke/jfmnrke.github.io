@@ -1,11 +1,15 @@
 
 ## About Me
 
-Marketing and campaign operations professional with experience supporting large-scale campaigns for Amazon Prime Video Canada.
+I work at the intersection of campaign operations, data, and performance marketing, focused on how systems behave rather than just how campaigns perform.
 
-My experience spans campaign execution, performance analysis, stakeholder management, reporting, optimization recommendations, process improvement, onboarding, and cross-functional collaboration.
+My work is centered on understanding why things break, why they scale, and how small operational decisions shape large performance outcomes.
 
-I am particularly interested in the intersection of data, operations, and human behavior. Throughout my career, I have focused on understanding how teams work, how campaigns perform, and how processes can be improved to create better outcomes.
+Across my experience with large-scale entertainment campaigns at Amazon Prime Video Canada, I’ve worked on campaign activation, performance analysis, stakeholder alignment, reporting, and process design.
+
+I’m particularly interested in the relationship between structure and behavior: how teams operate, how decisions propagate through systems, and how operational clarity leads to better outcomes.
+
+My approach is analytical but grounded in execution — I care about making systems work better, not just describing them.
 
 ## Selected Case Studies
 
